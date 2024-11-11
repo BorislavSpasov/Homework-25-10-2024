@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\bin\Debug\net8.0\Homework2Zad2.exe
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\bin\Debug\net8.0\Homework2Zad2.deps.json
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\bin\Debug\net8.0\Homework2Zad2.runtimeconfig.json
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\bin\Debug\net8.0\Homework2Zad2.dll
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\bin\Debug\net8.0\Homework2Zad2.pdb
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.AssemblyInfo.cs
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.dll
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\refint\Homework2Zad2.dll
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.pdb
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\Homework2Zad2.genruntimeconfig.cache
+C:\Users\thesh\source\repos\Homework2Zad2\Homework2Zad2\obj\Debug\net8.0\ref\Homework2Zad2.dll
